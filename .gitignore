@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore PyQt build files
+*.pyc
+__pycache__/
+
+# Ignore UI backup or compiled files
+*.bak
+*.py~
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
